@@ -9,7 +9,7 @@ const slideData = [
         id: 2,
         heading: "Second Heading",
         description: "A short description of the service goes here",
-        image: "pages/branches.jpg"
+        image: require("./branches.jpg")
     },
     {
         id: 3,
